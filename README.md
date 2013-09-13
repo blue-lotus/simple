@@ -1,7 +1,7 @@
 simple
 =========
 
-Octopress theme for blue-lotus based on `minimal`.
+Octopress theme for blue-lotus based on `minimized`.
 
 ###Install
 	$ cd octopress 
